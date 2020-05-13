@@ -108,6 +108,36 @@
   </url>
   
   <url>
+    <loc>https://updownleftrighty.github.io/en/eisenor/</loc>
+    <lastmod>2018-07-07T12:37:52+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://updownleftrighty.github.io/de/eisenor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://updownleftrighty.github.io/en/eisenor/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://updownleftrighty.github.io/en/tedisa/</loc>
+    <lastmod>2018-07-07T12:37:52+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://updownleftrighty.github.io/de/tedisa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://updownleftrighty.github.io/en/tedisa/"
+                />
+  </url>
+  
+  <url>
     <loc>https://updownleftrighty.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
