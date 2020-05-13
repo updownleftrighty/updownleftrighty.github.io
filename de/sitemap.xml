@@ -123,6 +123,21 @@
   </url>
   
   <url>
+    <loc>https://updownleftrighty.github.io/de/impressum/</loc>
+    <lastmod>2018-07-07T12:37:52+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://updownleftrighty.github.io/en/impressum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://updownleftrighty.github.io/de/impressum/"
+                />
+  </url>
+  
+  <url>
     <loc>https://updownleftrighty.github.io/de/obeki/</loc>
     <lastmod>2018-07-07T12:37:52+06:00</lastmod>
     <xhtml:link
