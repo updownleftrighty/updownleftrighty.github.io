@@ -153,7 +153,7 @@
             
             <!-- Contact Form -->
             <div class="contact-form col-12 col-md-12 ">
-                <form id="contact-form" method="post" action="sendmail.php" role="form">
+                <form id="contact-form" action="https://formspree.io/mvowgylo" method="POST">
                     <div class="form-group">
                         <input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
                     </div>
@@ -177,9 +177,11 @@
                     <div id="mail-fail" class="error">
                         Sorry, don't know what happened. Try later :(
                     </div>
+                    
+                    <input type="text" name="_gotcha" style="display:none" />
 
                     <div id="cf-submit">
-                        <input type="submit" id="contact-submit" class="btn btn-transparent" value="Submit">
+                        <input type="submit" class="btn bg-dark w-100" value="Send">
                     </div>
                 </form>
             </div>
