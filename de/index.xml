@@ -6,10 +6,28 @@
     <description>Recent content on MAC Precision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 07 Jul 2018 18:23:33 +0600</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2020 10:58:03 +0100</lastBuildDate>
     
 	<atom:link href="https://updownleftrighty.github.io/de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coronavirus</title>
+      <link>https://updownleftrighty.github.io/de/blog/coronavirus/</link>
+      <pubDate>Sat, 16 May 2020 10:58:03 +0100</pubDate>
+      
+      <guid>https://updownleftrighty.github.io/de/blog/coronavirus/</guid>
+      <description>Bemerkungen zu den Auswirkungen der Coronakrise auf unsere Partner For suppliers and customers alike the Coronavirus-19 has been devastating.</description>
+    </item>
+    
+    <item>
+      <title>MACP geht in&#39;s Netz</title>
+      <link>https://updownleftrighty.github.io/de/blog/macp-goes-online/</link>
+      <pubDate>Sat, 07 Jul 2018 17:04:41 +0600</pubDate>
+      
+      <guid>https://updownleftrighty.github.io/de/blog/macp-goes-online/</guid>
+      <description>Hallo! Wir freuen uns Ihnen unsere neue Webpräsenz vorstellen zu dürfen.</description>
+    </item>
     
   </channel>
 </rss>
